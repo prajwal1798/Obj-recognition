@@ -1,5 +1,5 @@
 # Obj-recognition
-Object_Recognition using CIFAR100
+Object_Recognition of CIFAR100 using SVM & CNN
 
 # **CIFAR-100 Classification Project**
 
